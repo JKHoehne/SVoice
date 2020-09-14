@@ -1,0 +1,98 @@
+<!doctype html>
+<html>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+<script src="load-image.all.min.js"></script>
+
+<link rel="stylesheet" type="text/css" href="loading-bar/loading-bar.css"/>
+<script type="text/javascript" src="loading-bar/loading-bar.js"></script>
+
+<head>
+<meta charset="utf-8">
+<title>index</title>
+<link href="../css/uploadButton.css" rel="stylesheet" type="text/css">
+<link href="css/uploadForm.css" rel="stylesheet" type="text/css">
+
+<meta name="viewport" content="width=device-width, initial-scale=1" /> 
+</head>
+
+<body onmousedown = 'return false' onselectstart = 'return false'>
+
+        <div class="wrapperQuestion">
+			<center><span><b>This is the place where you include a logo.</b></span></center>
+        </div>
+
+<div class="wrapperQuestion">
+<center><span><b>This is the place where you include a survey question.</b></span></center>
+</div>
+
+
+<div class="wrapper">
+
+
+  <div class="sections">
+          <!--<footer>
+    <section class="active">
+      <input type="text" placeholder="Optional User Input Field" id="title"/>
+      <select id="category">
+        <option value="summmer">summer</option>
+        <option value="winter">winter</option>
+        <option value="working">working</option>
+        <option value="road">road</option>
+      </select>
+      
+      <div class="select-option">
+        <div class="head">Optional Category Field</div>
+        <div class="option"></div>
+      </div>
+      
+  
+      
+      
+    </section>
+
+    <section>
+      Please tell us the reason why you are not able to participate. <br>
+      Here could also be a questionnaire.<br><br>
+      <textarea placeholder="Please type in your answer..." id="msg"></textarea>
+    </section>
+  
+    </footer> -->
+  
+<center><span id="NotificationText"><b>This is the place where you include a recording instruction.</b></span></center>
+<br>
+<center id="Timer"></center>
+  
+        <div class="images">
+        <div class="pic" id="ButtonColor">
+          <image src="../img/Icon_Microphone.png" style="width:50px;height:50px;" id="ButtonImage">
+        </div>
+      </div>
+  
+  
+  
+  
+  </div>
+
+    <footer>
+    <ul>
+      <li><span id="reset" class="DeleteButton"></span></li>
+      <li><span id="send">Next</span></li>
+    </ul>
+  </footer> 
+
+
+
+<div class="notification"></div>
+<footer>
+</footer>
+
+
+
+<script src="recorder.js"></script>
+<script src="uploadForm_Audio.js"></script>
+
+</body>
+
+
+</html>
