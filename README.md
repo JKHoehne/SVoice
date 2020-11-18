@@ -1,6 +1,6 @@
 # SurveyVoice (SVoice): A comprehensive guide for recording voice answers in surveys
 
-This repository provides the source codes of the “SurveyVoice (SVoice)” tool developed by Jan Karem Höhne, Konstantin Gavras, and Danish Daniel Qureshi. SVoice enables researchers to record respondents’ voice answers to survey questions in (mobile) web surveys. It is based on different program languages, such as JavaScript and PHP, and licensed under the XXX. SVoice can be implemented in browser-based survey software solutions. The recording of voice answers is generally not restricted to specific operating systems and/or Internet browsers.
+This repository provides the source codes of the “SurveyVoice (SVoice)” tool developed by Jan Karem Höhne, Konstantin Gavras, and Danish Daniel Qureshi. SVoice enables researchers to record respondents’ voice answers to survey questions in (mobile) web surveys. It is based on different program languages, such as JavaScript and PHP, and licensed under the Apache 2.0 License (see [here](https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)#fulltext)). SVoice can be implemented in browser-based survey software solutions. The recording of voice answers is generally not restricted to specific operating systems and/or Internet browsers.
 
 # Adapting SVoice to your survey
 
