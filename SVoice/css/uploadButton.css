@@ -1,0 +1,58 @@
+
+ .button {
+	 border-radius: 28px;
+	 position: relative;
+	 left: 26%;
+	 top: 50%;
+	 display: block;
+	 background: #fff;
+	 width: 150px;
+	 box-shadow: 0 2px 6px rgba(170,185,200,0.4);
+	 margin-top: 7px;
+}
+ .button svg {
+	 display: none;
+	 position: absolute;
+	 left: 50%;
+	 top: 50%;
+	 margin: -15px 0 0 -15px;
+	 fill: #fff;
+}
+ .button div {
+	 height: 4px;
+	 margin: -2px 0 0 0;
+	 position: absolute;
+	 top: 50%;
+	 left: 71px;
+	 right: 25px;
+	 background: #d3d7e0;
+	 display: none;
+	 border-radius: 2px;
+}
+ .button div span {
+	 position: absolute;
+	 background: #28e470;
+	 height: 4px;
+	 left: 0;
+	 top: 0;
+	 width: 0;
+	 display: block;
+	 border-radius: 2px;
+}
+ .button a {
+	 position: relative;
+	 display: block;
+	 background: #3f82d7;
+	 z-index: 2;
+	 line-height: 56px;
+	 height: 56px;
+	 border-radius: 28px;
+	 width: 100%;
+	 text-align: center;
+	 color: #fff;
+	 box-shadow: 0 2px 6px rgba(170,185,200,0.4);
+}
+ .button a span {
+	 cursor: pointer;
+	 display: block;
+}

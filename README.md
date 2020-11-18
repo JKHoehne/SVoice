@@ -4,7 +4,7 @@ This repository provides the source codes of the “SurveyVoice (SVoice)” tool
 
 # Adapting SVoice to your survey
 
-In this repository, we provide a generic solution of SVoice (see Figure below). When using SVoice for your own purposes, you may include a logo and a survey question in the [Upload_Audio.html](/Upload_Audio.html) file. Adaptations to the voice recording instruction (e.g., how to record voice answers), need to be implemented in the [uploadForm_Audio.js](/uploadForm_Audio.js) file.
+In this repository, we provide a generic solution of SVoice (see Figure below). When using SVoice for your own purposes, you may include a logo and a survey question in the [Upload_Audio.html](/SVoice/Upload_Audio.html) file. Adaptations to the voice recording instruction (e.g., how to record voice answers), need to be implemented in the [uploadForm_Audio.js](/SVoice/uploadForm_Audio.js) file.
 
 <p align="center">
   <img src="/img/screenshot.jpg" width="35%" />
