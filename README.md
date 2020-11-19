@@ -20,7 +20,9 @@ The use of program languages, such as JavaScript and PHP, enables researchers to
 
 # SVoice disclaimer
 
-Although the authors tested the application of SVoice, they wish to state clearly here that the use of all program codes is completely the user’s own responsibility. There is no warranty of any kind that the codes work properly, and users are encouraged to test their functionality before utilization. The authors cannot be held responsible for any malfunctions and/or damages, even if SVoice is the responsible source.
+Although the authors tested the application of SVoice, they wish to state clearly here that the use of all program codes is completely the user’s own responsibility. There is no warranty of any kind that the codes work properly, and users are encouraged to test their functionality before utilization. The authors and/or their affiliations cannot be held responsible for any malfunctions and/or damages, even if SVoice is the responsible source.
 
-Citation: Höhne, J. K., Gavras, K., & Qureshi, D. D. (2020). SurveyVoice (SVoice): A comprehensive guide for recording voice answers in surveys. Zenodo. DOI: …
+# SVoice Citation
+
+Höhne, J. K., Gavras, K., & Qureshi, D. D. (2020). SurveyVoice (SVoice): A comprehensive guide for recording voice answers in surveys. Zenodo. DOI: …
 
