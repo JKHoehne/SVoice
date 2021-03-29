@@ -24,5 +24,5 @@ Although the authors tested the application of SVoice, they wish to state clearl
 
 # SVoice citation
 
-Höhne, J. K., Gavras, K., & Qureshi, D. D. (2020). SurveyVoice (SVoice): A comprehensive guide for recording voice answers in surveys. Zenodo. DOI: …
+Höhne, J. K., Gavras, K., & Qureshi, D. D. (2020). SurveyVoice (SVoice): A comprehensive guide for recording voice answers in surveys. Zenodo. DOI: http://doi.org/10.5281/zenodo.4644590
 
